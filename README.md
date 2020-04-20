@@ -10,4 +10,4 @@ $ python pyHash.py [LOCATION FILE]
 ```
 
 ## LICENSE
-MIT.
+[MIT](LICENSE.md).
